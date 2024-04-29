@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982960331422",
+    "project_id": "wallpeper-643f1",
+    "storage_bucket": "wallpeper-643f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982960331422:android:90040e93b6db3b3291f98f",
+        "android_client_info": {
+          "package_name": "com.example.tech_wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8UQeLCBS8JB2h14-R3uajpVQqDQ83sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
